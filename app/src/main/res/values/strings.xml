@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hello_blank_fragment">Blank_fragment</string>
+    <string name="event_title">Event Title</string>
+    <string name="location">Location</string>
+    <string name="event_type">Event Type</string>
+    <string name="venue">Venue</string>
+    <string name="date">Date</string>
+    <string name="identifier">Identifier</string>
+    <string name="address">Address</string>
+    <string name="click_here_to_get_location"><u>Click here to get location</u></string>
+    <string name="website">Website</string>
+    <string name="hour">Hour</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="phone">Phone</string>
+</resources>
